@@ -1,5 +1,4 @@
-### Hi there 👋
-
+## Hi there 👋
 Welcome to the special repository repository of goodcodemakers only.
 I would like to briefly explain myself below.<br>
 ### ✏ Stack
@@ -9,7 +8,8 @@ I would like to briefly explain myself below.<br>
  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/Nodemon-76D04B?style=for-the-badge&logo=Nodemon&logoColor=white"></div>
+  <img src="https://img.shields.io/badge/Nodemon-76D04B?style=for-the-badge&logo=Nodemon&logoColor=white">
+</div>
 
 ## Design Tools
   <div>
@@ -17,7 +17,7 @@ I would like to briefly explain myself below.<br>
   <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=for-the-badge&logo=Adobe Photoshop&logoColor=white">
    </div>
 <hr>
-🌱 <br>
+🌱 
 I have a passion for creating user-friendly and visually appealing websites that provide a seamless experience for the end-user. My strong foundation in HTML, CSS, and JavaScript allows me to bring designs to life, and I am confident in my ability to effectively utilize frameworks such as React and Node to enhance website functionality.<br>
 
 I am always seeking to expand my knowledge and improve my skills, and I am open to new challenges and opportunities to prove my worth as a valuable asset to any development team. Whether it is working on new projects or contributing to existing ones, I am eager to make a difference and deliver outstanding results.<br>
