@@ -22,6 +22,6 @@ I have a passion for creating user-friendly and visually appealing websites that
 
 I am always seeking to expand my knowledge and improve my skills, and I am open to new challenges and opportunities to prove my worth as a valuable asset to any development team. Whether it is working on new projects or contributing to existing ones, I am eager to make a difference and deliver outstanding results.<br>
 🌱 <br>
-저는 유저친화적이고 시작적으로 매력적인 웹사이트를 만드는 것에 대하여 열정을 가지고 있는 신입 개발자 입니다 .
+저는 유저친화적이고 시각적으로 매력적인 웹사이트를 만드는 것에 대하여 열정을 가지고 있는 신입 개발자 입니다 .
 항상 지식을 습득하고 실력을 향상시키기 위해 노력하고 있습니다.
 <br>
